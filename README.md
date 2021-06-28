@@ -1,6 +1,6 @@
-# COP 4045 (Homework 3)
+#Assignment 3.
 
-a3_zhue2020.py
+The point of this code is to take in a file for encryption or decryption and subsequently provide the completed encrypted or decrypted text.
 
 ## design decisions
 
