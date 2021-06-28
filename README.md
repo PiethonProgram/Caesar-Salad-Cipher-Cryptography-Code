@@ -1,4 +1,4 @@
-#Assignment 3.
+# Assignment 3.
 
 The point of this code is to take in a file for encryption or decryption and subsequently provide the completed encrypted or decrypted text.
 
